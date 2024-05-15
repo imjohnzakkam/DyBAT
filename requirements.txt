@@ -5,4 +5,4 @@ timm==0.6.12
 torch==1.13.1
 torchmetrics==0.11.1
 torchvision==0.14.1
-tqdm==4.64.1
+tqdm==4.66.3
